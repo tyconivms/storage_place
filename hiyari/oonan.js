@@ -1,1 +1,1 @@
-document.write("24")
+document.write("0")
