@@ -1,1 +1,1 @@
-document.write("32")
+document.write("42")
