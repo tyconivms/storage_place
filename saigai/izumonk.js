@@ -1,1 +1,1 @@
-myCountUp( 2023,3,1 );
+myCountUp( 2024,9,11 );
