@@ -1,1 +1,1 @@
-myCountUp( 2020,6,10 );
+myCountUp( 2024,12,20 );
